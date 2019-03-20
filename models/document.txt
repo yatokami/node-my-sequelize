@@ -1,0 +1,1 @@
+sequelize-auto -o "./" -d the_dmg_oms -h 192.168.0.228 -u root -p 3306 -x root -e mysql -t t_goods
